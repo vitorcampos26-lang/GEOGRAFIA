@@ -1,6 +1,6 @@
 body{
-    color: blue;
-    background: silver;
+    color: rgb(0, 0, 0);
+    background: rgb(0, 102, 255);
     margin: 0px;
     font-family: "BBH Sans Hegarty", sans-serif; 
 }
@@ -9,13 +9,16 @@ header{
     border-bottom: solid 2px red;
     padding: 20px;
     font-size:32px ; 
-    color: yellow
+    color: rgb(0, 0, 0)
 }
 
 section{
-    background:blueviolet ;
+    background:rgb(0, 255, 221) ;
     padding-bottom: 80;
     padding-top: flex;
     display:flex ;
     justify-content: center;
+}
+.chamada-texto{
+    margin-right: 5%;
 }
